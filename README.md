@@ -11,7 +11,7 @@ This repository tracks the release of the Varicarta database. For more informati
 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">VariCarta: a comprehensive database of harmonized genomic variants found in ASD sequencing studies</span> by the [Pavlidis Lab, UBC](https://pavlab.msl.ubc.ca/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Usage
-These data are free to use for academic non-commericial purposes. 
+These data are free to use for academic and non-commericial purposes. This work is a combination of sources from the literature using previously published source information made public. By using this database, the user agrees not to attempt to de-identify subjects.
 
 ## Citation
 Please cite the VariCarta preprint in any work using where the resource was used: 
