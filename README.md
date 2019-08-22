@@ -1,6 +1,6 @@
 # VariCarta
 
-This repository tracks the release of Varicarta database release. For more information about VariCarta, see the following resources:
+This repository tracks the release of the Varicarta database. For more information about VariCarta, see the following resources:
  * Web application: https://varicarta.msl.ubc.ca
  * Application source code: https://github.com/PavlidisLab/ndb/tree/development
  * Publication: [VariCarta: a comprehensive database of harmonized genomic variants found in ASD sequencing studies (BioRxiv)](https://www.biorxiv.org/content/10.1101/608356v2)
