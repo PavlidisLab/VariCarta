@@ -14,5 +14,6 @@ This repository tracks the release of the Varicarta database. For more informati
 These data are free to use for academic and non-commericial purposes. This work is a combination of sources from the literature using previously published source information made public. By using this database, the user agrees not to attempt to de-identify subjects.
 
 ## Citation
-Please cite the VariCarta preprint in any work using where the resource was used: 
-> Belmadani, M., Jacobson, M., Holmes, N., Phan, M., Pavlidis, P. & Rogic, S. VariCarta: a comprehensive database of harmonized genomic variants found in ASD sequencing studies. bioRxiv 608356 (2019). doi:10.1101/608356
+Please cite the VariCarta paper in any work using where the resource was used: 
+
+> Belmadani, M., Jacobson, M., Holmes, N., Phan, M., Nguyen, T., Pavlidis, P. & Rogic, S. VariCarta: A Comprehensive Database of Harmonized Genomic Variants Found in Autism Spectrum Disorder Sequencing Studies. Autism Res. 12, 1728–1736 (2019). [https://doi.org/10.1002/aur.2236](https://doi.org/10.1002/aur.2236)
